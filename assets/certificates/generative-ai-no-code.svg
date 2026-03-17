@@ -1,0 +1,21 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D2446"/>
+      <stop offset="1" stop-color="#061427"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="120" x2="1260" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#42D6FF"/>
+      <stop offset="1" stop-color="#3F8DFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="1364" height="864" rx="34" fill="url(#bg)" stroke="url(#accent)" stroke-width="4"/>
+  <rect x="90" y="90" width="1220" height="720" rx="24" fill="#0A1D3A" stroke="#5BA8FF" stroke-opacity="0.35"/>
+  <text x="700" y="200" text-anchor="middle" fill="#42D6FF" font-size="38" font-family="Inter, Arial, sans-serif" font-weight="700">Certification Preview</text>
+  <text x="700" y="290" text-anchor="middle" fill="#FFFFFF" font-size="48" font-family="Inter, Arial, sans-serif" font-weight="700">Build Generative AI Apps and</text>
+  <text x="700" y="350" text-anchor="middle" fill="#FFFFFF" font-size="48" font-family="Inter, Arial, sans-serif" font-weight="700">Solutions with No-Code Tools</text>
+  <rect x="220" y="430" width="960" height="6" rx="3" fill="url(#accent)"/>
+  <text x="700" y="520" text-anchor="middle" fill="#9DD9FF" font-size="34" font-family="Inter, Arial, sans-serif">Issued by Infosys</text>
+  <text x="700" y="580" text-anchor="middle" fill="#DDEBFF" font-size="26" font-family="Inter, Arial, sans-serif">Month: August 2025</text>
+  <text x="700" y="660" text-anchor="middle" fill="#8FA8C7" font-size="24" font-family="Inter, Arial, sans-serif">Replace this SVG with your real certificate image anytime</text>
+</svg>

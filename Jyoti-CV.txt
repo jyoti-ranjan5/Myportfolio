@@ -1,0 +1,61 @@
+JYOTI RANJAN
+Aspiring Software Engineer
+
+Email: Jr8443791@gmail.com
+Phone: +91 9234588938
+LinkedIn: https://www.linkedin.com/in/JyotiRanjan
+GitHub: https://github.com/jyoti-ranjan5
+Resume File: assets/images/ResumeJYOTI  new (1).docx
+
+SKILLS
+- Languages: C++, Python, C, Java
+- Frameworks: HTML5, CSS3
+- Databases: MySQL
+- DevOps: AWS, Docker, Git, GitHub
+- Soft Skills: Problem-Solving, Team Player, Adaptability
+
+PROJECTS
+1) AI Stress Level Tracker (Mar 2025 - May 2025)
+- Built a voice-analysis system using AI/ML models to estimate stress levels.
+- Designed a real-time chat-style interface for stress feedback.
+- Integrated microphone input, inference pipeline, and modern UI/UX.
+- Implemented backend inference and frontend stress visualization.
+- Lighthouse: Performance 96, Accessibility 98, Best Practices 96, SEO 85.
+- Tech Stack: HTML, CSS, JavaScript, Python
+
+2) Rock, Paper and Scissor Game (Jan 2024 - Mar 2024)
+- Developed an engaging interactive game.
+- Used JavaScript to build game logic and user interaction.
+- Added random computer choice for better engagement.
+- Lighthouse: Performance 90, Accessibility 100, Best Practices 100, SEO 80.
+- Tech Stack: HTML, CSS, JavaScript
+
+TRAINING
+Modern Banking System with Data Structures | Lovely Professional University | Jun 2024
+- Built using HTML, CSS, JavaScript, and Bootstrap.
+- Implemented BST, Queue, and Hash Map for core system features.
+- Achieved sub-second login and processing performance.
+- Added validation, error handling, and responsive UI support.
+
+CERTIFICATIONS
+- ChatGPT-4 Prompt Engineering: ChatGPT, Generative AI & LLM | Infosys | Jul 2025
+	Certificate File: assets/images/promt Engineering chatgpt,generative ai infosis certificate.pdf
+- Build Generative AI Apps and Solutions with No-Code Tools | Infosys | Aug 2025
+	Certificate File: assets/images/buld generative ai apps and solution with no  codes infosis.pdf
+- Oracle Certified Foundations Associate | Oracle | Oct 2025
+	Certificate File: assets/images/oraclecertificate.pdf
+- Privacy and Security in Online Social Media | NPTEL | Nov 2025
+	Certificate File: assets/images/Privacy and Security in Online Social Media (3).pdf
+- Language Principle & Finite Automata Theory
+	Certificate File: assets/images/language Principle &finite Automata Theory.pdf
+
+ACHIEVEMENT
+- Solved 50+ problems across GFG, HackerRank, and CodeChef.
+
+EDUCATION
+- Lovely Professional University, Jalandhar, Punjab
+	Bachelor of Technology - Computer Science and Engineering | CGPA: 6.32 | Aug 2023 - Present
+- Sri Viswasanthi Educational Institution, Vijayawada, Andhra Pradesh
+	Intermediate | Percentage: 72 | Apr 2022 - Mar 2023
+- Sri Viswasanthi Educational Institution, Vijayawada, Andhra Pradesh
+	Matriculation | Percentage: 92 | Apr 2020 - Mar 2022
